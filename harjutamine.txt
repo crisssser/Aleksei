@@ -1,0 +1,3 @@
+GitHub on võrguteenus, millel on kõik Git-süsteemi funktsioonid. 
+Kui Git on tööriist, hoidla, mille saate lähtesaidilt alla laadida ja arvutis kohapeal kasutada, siis GitHub on konkreetne ressurss, kus saate oma hoidla luua või üles laadida ja seda kaugkoostööks kasutada.
+Pärast GitHubi teenuses registreerimist saab arendaja töötada ühe või mitme projekti kallal, hallata lähtekoodi muudatusi, jälgida lollakaid, seadistada juurdepääsu oma projektidele ja nii edasi.
